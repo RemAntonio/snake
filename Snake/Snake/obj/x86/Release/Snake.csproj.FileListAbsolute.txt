@@ -1,0 +1,4 @@
+G:\Хламец\snake\Snake\Snake\bin\Release\Snake.exe
+G:\Хламец\snake\Snake\Snake\bin\Release\Snake.pdb
+G:\Хламец\snake\Snake\Snake\obj\x86\Release\Snake.exe
+G:\Хламец\snake\Snake\Snake\obj\x86\Release\Snake.pdb
